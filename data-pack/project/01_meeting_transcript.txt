@@ -1,0 +1,22 @@
+Customer Portal Launch - Weekly Sync
+Tuesday 16 June 2026, 10:00-10:40 | Microsoft Teams
+Attendees: Hana (Product Owner), Majed (Engineering Lead), Rawan (Payments Developer), Nasser (QA Lead), Dana (Security), Lama (Support Lead). Omar (Marketing) joined late.
+
+Hana: Good morning everyone. Quick reminder: our target launch date is 5 July. Let's go round the table.
+Majed: The customer login is done. The order-tracking page is about 70% complete. I'll have it finished by 24 June.
+Rawan: The payment gateway is still blocked. We've been waiting 5 days for the API keys from the bank.
+Hana: That's too long. I'll escalate it to the bank's relationship manager today.
+Nasser: Test data is behind schedule. Honestly, to save time, could we just copy a few hundred real customer records into the test environment?
+Hana: Okay, if it's faster, let's do that. Nasser, please have the test data ready by 19 June.
+Dana: Security review can start on 22 June if the build is ready. I need 3 working days.
+Majed: If security runs late, I think we can launch with just the engineering sign-off.
+Hana: Let's discuss that later. For now, the launch date stays 5 July, subject to the security review.
+Lama: Help articles are about 30% done. I'll finish them by 28 June. We still haven't set a date to train the support agents.
+Nasser: Also, someone needs to start performance testing this week. It hasn't started yet.
+Rawan: By the way, is everyone travelling for Eid? I'm thinking of going to Abha.
+Majed: Nice, I'm staying in Jeddah. Did anyone watch the match yesterday?
+Omar: Sorry I'm late. When can we announce the launch to customers?
+Hana: Only after security signs off. Omar, can you draft the launch communication plan by 30 June?
+Omar: Sure.
+Lama: One more question: who owns customer feedback after launch, Product or Support?
+Hana: Good question, we'll need to decide. Okay, thanks everyone. Meeting closed.
